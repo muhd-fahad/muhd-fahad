@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=FahadmFlutter&icon=0&color=11)](https://visitcount.itsvg.in)
 ---
 # 💫 About Me:
-🔭 I’m currently working on **Bullion App** <br>🌱 I’m currently learning **Flutter**<br>💬 Ask me about **Flutter, Dart** <br>📫 How to reach me muhdfahad143@gmail.com
+<!-- 🔭 I’m currently working on **Bullion App** -->
+<br>🌱 I’m currently learning **Flutter**<br>💬 Ask me about **Flutter, Dart** <br>📫 How to reach me muhdfahad143@gmail.com
 
 
 ## 🌐 Socials:
