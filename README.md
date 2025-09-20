@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fahad</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-[![](https://visitcount.itsvg.in/api?id=FahadmFlutter&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muhd-fahadicon=0&color=11)](https://visitcount.itsvg.in)
 ---
 # 💫 About Me:
 <!-- 🔭 I’m currently working on **Bullion App** -->
@@ -37,17 +37,17 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=FahadmFlutter&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FahadmFlutter&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadmFlutter&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=muhd-fahad&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhd-fahad&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhd-fahad&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadmflutter" alt="fahadmflutter" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhd-fahad" alt="muhd-fahad" /></a> </p>
 
 <!-- ![](https://github-profile-trophy.vercel.app/?username=FahadmFlutter&theme=default&no-frame=true&no-bg=true&margin-w=4) -->
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FahadmFlutter&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=muhd-fahad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
