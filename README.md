@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate flutter developer from India</h3>
 
 [![](https://visitcount.itsvg.in/api?id=muhd-fahadicon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muhd-fahad&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ---
 # 💫 About Me:
 <!-- 🔭 I’m currently working on **Bullion App** -->
